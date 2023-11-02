@@ -2,9 +2,11 @@
 
 A simple app allowing you to type a word and get its meaning aswell as its pronunciation.
 
+
 ## Demo
 
 https://kevin-ha-kha.github.io/english-dictionnary/
+
 
 ## API Reference
 
